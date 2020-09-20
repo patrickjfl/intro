@@ -1,0 +1,27 @@
+body {
+    background: #141E30
+}
+.heading {
+    color: deeppink;
+    text-align: center;
+    font-weight: bold;
+}
+p {
+    color: #fffdd0;
+    text-align: justify;
+}
+a {
+    color: rgba(255, 255, 255, 0.5);
+}
+.content {
+    max-width: 700px;
+    margin: auto;
+  }
+.centre {
+    display:block;
+    margin: auto;
+    width: 100%;
+}
+.text {
+    font-family: 'Courier New', Courier, monospace;
+}
